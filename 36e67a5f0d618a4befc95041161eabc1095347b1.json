@@ -592,7 +592,7 @@
   "mean_abs_epsilon_precision_eq_species": 0.39779872693736884,
   "nr_feature": 13342,
   "comments": "",
-  "proteobench_version": "0.16.5",
+  "proteobench_version": "0.16.7",
   "median_abs_log2_fc_error_spike_ins": 0.33376911600930537,
   "nr_quantified_spike_ins": 8939,
   "dynamic_range_human_plasma": 2.2290490456864744,
